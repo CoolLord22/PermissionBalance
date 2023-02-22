@@ -1,0 +1,11 @@
+#######################
+# Config ##############
+#######################
+bal-limit:
+  default: "100000"
+
+  # permissionbalance.multiple.vip
+  vip: "500000"
+
+  # permissionbalance.multiple.staff
+  staff: "1000000"
